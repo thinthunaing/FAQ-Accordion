@@ -60,6 +60,6 @@ I have learnt
 
 ## Acknowledgments
 
-I build this project design by myself. But for certain interaction I watched coder coder youtube channel.
+I build this project design by myself. But for certain interaction I watched coder coder  @TheCoderCoder youtube channel.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
